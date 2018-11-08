@@ -481,4 +481,6 @@ NoConn ~ 10400 1000
 NoConn ~ 10600 1000
 NoConn ~ 10800 1000
 NoConn ~ 11000 1000
+Text Notes 7000 6750 0    60   ~ 0
+Tester for Atari-style joysticks and paddles, based on schematic at\nhttp://www.mks.purespace.de/technical/c64tester.htm.
 $EndSCHEMATC
