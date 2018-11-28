@@ -9,7 +9,7 @@ Joystick testers are certainly nothing new so based my design on an already exis
 
 
 # Schematic
-The supplied KiCad files should be sufficient as both a schematic and as a  starting point for ordering PCBs (basically you could just zip the contents of the export folder and upload that on a fabrication site), the schematic is also available in [PDF-format]https://github.com/tebl/Atari-Joystick-Tester/raw/master/export/Atari%20Joystick%20Tester.pdf) and this is what you'll need to print and work your way through this things don't work as expected after assembly.
+The supplied KiCad files should be sufficient as both a schematic and as a  starting point for ordering PCBs (basically you could just zip the contents of the export folder and upload that on a fabrication site), the schematic is also available in [PDF-format](https://github.com/tebl/Atari-Joystick-Tester/raw/master/export/Atari%20Joystick%20Tester.pdf) and this is what you'll need to print and work your way through this things don't work as expected after assembly.
 
 # BOM
 Most parts should be easy to easily get from your favourite local electronic component shop, personally I live around a couple of hours away from the closest one (by plane) so mostly I just use whatever is available via ebay, AliExpress or similar site. Most components coming out of China are good enough for hobby projects such as this, and in quantities usually large enough to build ten of them for less than a somewhat fancy cup of coffee (contents, not counting the actual mug).
