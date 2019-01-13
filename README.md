@@ -18,9 +18,11 @@ Resistor values are highly dependent on the type of LEDs used on the card, usual
 
 | Reference               | Item                                   | Count |
 | ----------------------- | -------------------------------------- | ----- |
-| PCB                     | Fabricate using Gerber files ([order here](https://www.pcbway.com/project/shareproject/Atari_Joystick_Tester.html))  |     1 |
+| PCB                     | Fabricate using Gerber files ([order here](https://www.pcbway.com/project/shareproject/Atari_Joystick_Tester.html?inviteid=88707))  |     1 |
 | J1                      | DB9 male connector (2 rows), PCB mount |     1 |
 | J4                      | 3 pin DC barrel connector              |     1 |
 | SW1,SW2                 | 3pin SPDT slide-switch                 |     2 |
 | R1-R7                   | 220-470 ohm resistor (dependent on LED)|     7 | 
 | D1-R7                   | 5mm LED, assorted colors as desired    |     7 | 
+
+Please use the order link above when signing up to help me support this project, I'll get a small discount on future orders and hopefully that means I can afford to keep developing new and exciting modules in the future. By using the URL you won't have to deal with the rather daunting order forms for PCB fabrication, but if you want to go that route they'll probably want a zipped-up copy of the files in the export-directory!
